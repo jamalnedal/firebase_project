@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "867088833760",
+    "project_id": "vp9-flutter",
+    "storage_bucket": "vp9-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867088833760:android:24adae5496069fdd110485",
+        "android_client_info": {
+          "package_name": "com.vision.vp9_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867088833760-d0hh6qkrf8mae599knb911cnlkvctjoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjK0U_j4-TgOcgptjC7oExX--_i5vun3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867088833760-d0hh6qkrf8mae599knb911cnlkvctjoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867088833760-f3vt172e1f6kh9ndo54lik00ib355iq4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vision.vp9Firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
